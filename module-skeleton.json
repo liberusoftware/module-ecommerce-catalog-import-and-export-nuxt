@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-catalog-import-and-export-nuxt",
+  "capabilityKey": "planned:ecommerce:catalog-import-and-export",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-catalog-import-and-export-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/catalog-import-and-export.md",
+  "presentationPlan": "projects/ecommerce/nuxt/catalog-import-and-export.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
